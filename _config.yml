@@ -159,7 +159,7 @@ disqus_shortname: # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: WordPress.com
-    rss_url: https://raw.githubusercontent.com/kandykan/kandykan.github.io/master/assets/parisofappalachia.xml
+    rss_url: https://parisofappalachia.wordpress.com/feed/
 
 # -----------------------------------------------------------------------------
 # Collections
