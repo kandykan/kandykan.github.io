@@ -71,7 +71,7 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: kandykan # your LinkedIn user name
+linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -123,8 +123,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Pittsburgh, like Paris # blog_name will be displayed in your blog page
+blog_description: a girl's journey through the Paris of Appalachia
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -158,8 +158,8 @@ disqus_shortname: # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: WordPress.com
+    rss_url: /assets/parisofappalachia.xml
 
 # -----------------------------------------------------------------------------
 # Collections
