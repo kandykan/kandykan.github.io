@@ -1,34 +1,67 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Mortensen":
+  - firstname: ["David", "David R.", "D."]
+    url: https://www.cs.cmu.edu/~dmortens/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Park":
+  - firstname: ["Hyunji Hayley", "H."]
+    url: https://hayleypark.github.io
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Haley":
+  - firstname: ["Coleman", "C."]
+    url: https://colemanhaley.com
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Steimel":
+  - firstname: ["Kenneth", "K."]
+    url: https://ksteimel.duckdns.org
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Liu": 
+  - firstname: ["Han", "H."]
+    url: https://hanliuai.github.io
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Schwartz":
+  - firstname: ["Lane", "L."]
+    url: https://dowobeha.github.io/about/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Tyers":
+  - firstname: ["Francis M.", "Francis"]
+    url: http://xixona.dlsi.ua.es/~fran/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Levin":
+  - firstname: ["Lori S.", "Lori", "Lorraine"]
+    url: http://www.cs.cmu.edu/~lsl/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Kirov":
+  - firstname: ["Christo", "C."]
+    url: https://ckirov.github.io
+
+"Littell": 
+  - firstname: ["Patrick", "P."]
+    url: http://littell.nfshost.com
+
+"Lo":
+  - firstname: ["Chi-kiu", "C. K."]
+    url: http://chikiu-jackie-lo.org/home/
+
+"Prud'hommeaux":
+  - firstname: ["Emily", "E."]
+    url: http://cs.bc.edu/~prudhome/
+
+"Micher":
+  - firstname: ["Jeffrey", "Jeffrey C."]
+    url: http://www.cs.cmu.edu/~jmicher/
+
+"Strunk":
+  - firstname: ["Lonny Alaskuk", "Lonny"]
+    url: https://www.yugtun.com
+
+"Muis": 
+  - firstname: ["Aldrian Obaja", "Aldrian"]
+    url: https://hanliuai.github.io
+
+"Otani":
+  - firstname: ["Naoki", "N."]
+    url: http://naoki.ninja
+
+"Zhang":
+  - firstname: ["Zhisong", "Z."]
+    url: https://zzsfornlp.github.io

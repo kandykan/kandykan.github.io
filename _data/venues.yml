@@ -1,6 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"NAACL":
+  url: https://aclanthology.org/venues/naacl/
+  # color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"LREC":
+  url: http://www.lrec-conf.org
+
+"TACL":
+  url: https://transacl.org/index.php/tacl
+  # color: "#00369f"
+
+"JSALT":
+  url: https://www.clsp.jhu.edu/workshops/
+  # color: "#00369f"

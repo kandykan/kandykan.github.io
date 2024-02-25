@@ -2,96 +2,121 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Katherine J. Zhang
+    # - name: Date of Birth
+      # value: 14th March 1879
+    - name: Country
+      value: United States
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.A., Global Communication & Applied Translation
+      institution: Carnegie Mellon University, Pittsburgh, United States
+      year: 2021
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: B.A., Linguistics, with University Honors
+      institution: Carnegie Mellon University, Pittsburgh, United States
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "Additional Major: Chinese Studies"
+        - "Thesis: A Cross-Linguistic Comparison of the L2 Acquisition of VOT Contrasts"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Localization Specialist
+      institution: miHoYo
+      year: Jan 2024–present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Involved across all areas of English localization for Honkai: Star Rail"
+        # - Description 2.
+        - title: 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Best Mobile Game, The Game Awards 2023
+            - Best Game, Google Play’s Best of 2023
+            - iPhone Game of the Year, 2023 App Store Awards
+
+    - title: Freelance Linguist & Translator
+      # institution: Institute for Advanced Study, Princeton University
+      year: Jul 2021–Jan 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Researched medical terminology, including drug names, and transcribed pronunciation of terms in X-SAMPA phonetic alphabet.
+        - Conducted linguistic quality assurance (LQA) and usability testing for English localization of large B2B e-commerce website.
+        - Translated and localized website of Chinese cloud computing company into English.
+        - Edited and proofread English > Chinese localizations of business analytics software.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Assistant
+      institution: Language Technologies Institute, School of Computer Science, Carnegie Mellon University
+      year: Feb 2022–May 2022
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: NLP Analyst Intern
+      institution: Unbabel
+      year: May 2021–Aug 2021
       description:
+        - Wrote software to evaluate company’s in-house metrics for machine translations.
+        - Identified errors in machine translations of customer support tickets.
+        - Post-edited Chinese > English machine translations.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Teaching Assistant
+      institution: Carnegie Mellon University
+      year: Aug 2017–May 2021
+      description:
+        - Taught weekly classes, tutored students in office hours, and graded homework and tests.
+        - title: Courses
+          contents:
+            - "Nature of Language"
+            - "Human Language for Artificial Intelligence"
+            - "Conlangs: Learning Linguistics and Language Technologies through Constructed Languages"
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Researcher
+      institution: École de Technologie Supérieure
+      year: Jun 2019–Aug 2019
+      description:
+        - Developed language technologies (e.g., predictive keyboard app, machine translation) for Inuit--Yupik languages.
+        - Published a paper on the relationship between neural language modeling difficulty and language typology.
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - year: 2019
+      items: 
+        - Phi Beta Kappa
+        - Phi Sigma Iota
+    - year: 2015–2019
+      items: 
+        - Carnegie Scholarship
 
-- title: Academic Interests
+- title: Languages
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Native
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - English [en]
+    - title: Advanced
       items:
-        - Description 1.
-        - Description 2.
+        - français [fr]
+        - 中文 [zh]
+    - title: Intermediate
+      items:
+        - 日本語 [ja]
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Languages
+#   type: list
+#   contents:
+#     - "Native: English [en]"
+#     - "Advanced: français [fr], 中文 [zh]"
+#     - "Intermediate: 日本語 [ja]"

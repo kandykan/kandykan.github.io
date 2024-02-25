@@ -23,7 +23,7 @@ I am a linguist and a translator. I translate from Mandarin Chinese (and sometim
 
 I have also done research in computational linguistics at CMU's [Language Technologies Institute](https://www.lti.cs.cmu.edu/), the machine translation start-up [Unbabel](https://unbabel.com), and [ÉTS Montréal](https://www.etsmtl.ca).
 
-Outside of work, I also really enjoy beef noodle soup, *Star Wars*, and [pressing crosswalk buttons](https://parisofappalachia.wordpress.com)! My hometown is [Oak Ridge, Tennessee](https://exploreoakridge.com), one of the secret cities of the Manhattan Project.
+Outside of work, I also really enjoy beef noodle soup, *Star Wars*, and [pressing crosswalk buttons](/blog/)! My hometown is [Oak Ridge, Tennessee](https://exploreoakridge.com), one of the secret cities of the Manhattan Project.
 
 *[CMU]: Carnegie Mellon University
 *[ÉTS]: École de technologie supérieure

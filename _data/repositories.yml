@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kandykan
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ColemanHaley/JSALT2019-FST-lab.git
+  - hayleypark/MorphologyMatters.git

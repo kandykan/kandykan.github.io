@@ -1,85 +1,63 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{cui-etal-2022-learning,
+    abbr = "NAACL",
+    title = "Learning the Ordering of Coordinate Compounds and Elaborate Expressions in {H}mong, {L}ahu, and {C}hinese",
+    author = "Cui, Chenxuan  and
+      Zhang, Katherine J.  and
+      Mortensen, David",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.268",
+    pages = "3656--3669",
+    abstract = "Coordinate compounds (CCs) and elaborate expressions (EEs) are coordinate constructions common in languages of East and Southeast Asia. Mortensen (2006) claims that (1) the linear ordering of EEs and CCs in Hmong, Lahu, and Chinese can be predicted via phonological hierarchies and (2) that these phonological hierarchies lack a clear phonetic rationale. These claims are significant because morphosyntax has often been seen as in a feed-forward relationship with phonology, and phonological generalizations have often been assumed to be phonetically {``}natural{''}. We investigate whether the ordering of CCs and EEs can be learned empirically and whether computational models (classifiers and sequence-labeling models) learn unnatural hierarchies similar to those posited by Mortensen (2006). We find that decision trees and SVMs learn to predict the order of CCs/EEs on the basis of phonology, beating strong baselines for all three languages, with DTs learning hierarchies strikingly similar to those proposed by Mortensen. However, we also find that a neural sequence labeling model is able to learn the ordering of elaborate expressions in Hmong very effectively without using any phonological information. We argue that EE ordering can be learned through two independent routes: phonology and lexical distribution, presenting a more nuanced picture than previous work.",
+    pdf={https://aclanthology.org/2022.naacl-main.268.pdf},
+    code={https://github.com/dmort27/elab-order},
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@InProceedings{mortensen-EtAl:2022:LREC,
+  abbr      = {LREC},
+  author    = {Mortensen, David R.  and  Zhang, Xinyu  and  Cui, Chenxuan  and  Zhang, Katherine J.},
+  title     = {A Hmong Corpus with Elaborate Expression Annotations},
+  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {4992--5000},
+  abstract  = {This paper describes the first publicly available corpus of Hmong, a minority language of China, Vietnam, Laos, Thailand, and various countries in Europe and the Americas. The corpus has been scraped from a long-running Usenet newsgroup called soc.culture.hmong and consists of approximately 12 million tokens. This corpus (called SCH) is also the first substantial corpus to be annotated for elaborate expressions, a kind of four-part coordinate construction that is common and important in the languages of mainland Southeast Asia. We show that word embeddings trained on SCH can benefit tasks in Hmong (solving analogies) and that a model trained on it can label previously unseen elaborate expressions, in context, with an F1 of 90.79 (precision: 87.36, recall: 94.52). [ISO 639-3: mww, hmj]},
+  url       = {https://aclanthology.org/2022.lrec-1.533},
+  pdf       = {http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.533.pdf},
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  selected={true}
+@article{10.1162/tacl_a_00365,
+    abbr = {TACL},
+    author = {Park, Hyunji Hayley and Katherine J. Zhang and Haley, Coleman and Steimel, Kenneth and Liu, Han and Schwartz, Lane},
+    title = "{Morphology Matters: A Multilingual Language Modeling Analysis}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {9},
+    pages = {261-276},
+    year = {2021},
+    abstract = "{Prior studies in multilingual language modeling (e.g., Cotterell et al., 2018; Mielke et al., 2019) disagree on whether or not inflectional morphology makes languages harder to model. We attempt to resolve the disagreement and extend those studies. We compile a larger corpus of 145 Bible translations in 92 languages and a larger number of typological features. We fill in missing typological data for several languages and consider corpus-based measures of morphological complexity in addition to expert-produced typological features. We find that several morphological measures are significantly associated with higher surprisal when LSTM models are trained with BPE-segmented data. We also investigate linguistically motivated subword segmentation strategies like Morfessor and Finite-State Transducers (FSTs) and find that these segmentation strategies yield better performance and reduce the impact of a language’s morphology on language modeling.}",
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00365},
+    html = {https://doi.org/10.1162/tacl_a_00365},
+    code = {https://github.com/hayleypark/MorphologyMatters},
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@techreport{schwartz2020neural,
+    abbr = {JSALT},
+    title={Neural Polysynthetic Language Modelling},
+    author={Lane Schwartz and Francis Tyers and Lori Levin and Christo Kirov and Patrick Littell and Chi-kiu Lo and Emily Prud'hommeaux and Hyunji Hayley Park and Kenneth Steimel and Rebecca Knowles and Jeffrey Micher and Lonny Strunk and Han Liu and Coleman Haley and Katherine J. Zhang and Robbie Jimerson and Vasilisa Andriyanets and Aldrian Obaja Muis and Naoki Otani and Jong Hyuk Park and Zhisong Zhang},
+    year={2020},
+    month={05},
+    arxiv={2005.05477},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    code={https://github.com/neural-polysynthetic-language-modelling},
+    website={https://www.clsp.jhu.edu/workshops/19-workshop/neural-polysynthetic-language-modeling-leveraging-related-low-resource-languages-and-rule-based-resources/},
 }
