@@ -1,7 +1,7 @@
 ---
 layout: page
 title: translation talk
-description: an interview with Gigi Chang
+description: an interview with translator Gigi Chang
 img: assets/img/9.jpg
 importance: 5
 category: translation
@@ -24,8 +24,8 @@ category: translation
     document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
         var adobeDCView = new AdobeDC.View({clientId: "aa1d7789819d4f28b1a88129330e808e", divId: "adobe-dc-view"});
         adobeDCView.previewFile({
-            content:{location: {url: "assets/pdf/gigi_chang_compressed.pdf"}},
+            content:{location: {url: "/assets/pdf/gigi_chang_compressed.pdf"}},
             metaData:{fileName: "gigi_chang_compressed.pdf"}
-        }, {embedMode: "IN_LINE"});
+        }, {embedMode: "IN_LINE", showDownloadPDF: false, showPrintPDF: false});
     });
 </script>

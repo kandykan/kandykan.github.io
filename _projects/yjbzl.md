@@ -14,6 +14,18 @@ toc:
     #   - name: Example Child Subsection 2
   - name: autumn love
 
+# Below is an example of injecting additional post-specific styles.
+# If you use this post as a template, delete this _styles block.
+_styles: >
+  dl {
+    color: var(--global-text-color) !important;
+  }
+  .caption {
+    font-size: 0.875rem;
+    margin-top: 0.75rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
 ---
 
 <dl>
@@ -21,7 +33,7 @@ toc:
   <dd><ruby><span lang="zh">三毛</span> <rt>San Mao</rt></ruby></dd>
   <dt>Language</dt>
   <dd>Chinese &rsaquo; English</dd>
-  <dt>Title</dt>
+  <dt>Source</dt>
   <dd><a href="https://www.crown.com.tw/view.aspx?bc=003002" lang="zh">雨季不再來</a></dd>
 </dl>
 
@@ -76,10 +88,9 @@ Alas! Jennie! I’m coming. I’m coming to you. Then Jennie throws herself at m
 
 ## autumn love
 
-<figure>
-	<blockquote>This life is the crossing of a sea, where we meet in the same narrow ship. In death we reach the shore and go to our different worlds.</blockquote>
-	<figcaption style="text-align: right;">--- Rabindranath Tagore</figcaption>
-</figure>
+> This life is the crossing of a sea, where we meet in the same narrow ship. In death we reach the shore and go to our different worlds.
+
+<span style="text-align: right;">— Rabindranath Tagore</span>
 
 She sits in a small coffee shop in the Latin Quarter, gazing out the window, lost in thought, watching the wind sweep up the leaves on the sidewalk. Autumn is here.
 

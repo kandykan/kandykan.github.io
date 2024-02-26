@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 
-My family name is <ruby><span lang="zh">張</span> <rt>Zhang</rt></ruby>&nbsp;. It means something like 'bowyer' or 'archer'. The pronunciation that I prefer in English is [<span style="font-weight: bolder;">dʒɑŋ</span>]: [<span style="font-weight: bolder;">dʒ</span>] as in _**J**ohn_, [<span style="font-weight: bolder;">ɑ</span>] as in _c**a**r_, and [<span style="font-weight: bolder;">ŋ</span>] as in _so**ng**_.
+My family name is <ruby><span lang="zh">張</span> <rt>Zhang</rt></ruby>&nbsp;. It means something like 'bowyer' or 'archer'. The pronunciation that I prefer in English is [<span style="font-weight: bolder;">dʒɑŋ</span>]: [<span style="font-weight: bolder;">dʒ</span>] as in _<u>J</u>ohn_, [<span style="font-weight: bolder;">ɑ</span>] as in _c<u>a</u>r_, and [<span style="font-weight: bolder;">ŋ</span>] as in _so<u>ng</u>_.
 
 My legal given name is Katherine. Most people should use this name to refer to me.
 

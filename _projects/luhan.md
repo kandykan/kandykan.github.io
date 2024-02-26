@@ -1,7 +1,7 @@
 ---
 layout: page
 title: luhan q&a
-description: an interview with Luhan
+description: an interview with Luhan in Elle China
 img: assets/img/13.jpg
 importance: 7
 category: translation
@@ -13,7 +13,7 @@ category: translation
   <dt>Language</dt>
   <dd>Chinese &rsaquo; English</dd>
   <dt>Source</dt>
-  <dd>[ELLE China Magazine, Feb 2015 #4](https://web.archive.org/web/20151206191318/http://www.ellechina.com/celeb/interview/20150122-195840.shtml)</dd>
+  <dd><a href="https://web.archive.org/web/20151206191318/http://www.ellechina.com/celeb/interview/20150122-195840.shtml">ELLE China Magazine, Feb 2015 #4</a></dd>
 </dl>
 
 ---
