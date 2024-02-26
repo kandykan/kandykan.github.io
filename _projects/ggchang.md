@@ -1,7 +1,7 @@
 ---
 layout: page
 title: translation talk
-description: an interview with translator Gigi Chang
+description: an interview with Gigi Chang
 img: assets/img/9.jpg
 importance: 5
 category: translation

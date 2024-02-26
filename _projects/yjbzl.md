@@ -24,7 +24,7 @@ _styles: >
     font-size: 0.875rem;
     margin-top: 0.75rem;
     margin-bottom: 1.5rem;
-    text-align: center;
+    text-align: right;
   }
 ---
 
@@ -90,7 +90,7 @@ Alas! Jennie! I’m coming. I’m coming to you. Then Jennie throws herself at m
 
 > This life is the crossing of a sea, where we meet in the same narrow ship. In death we reach the shore and go to our different worlds.
 
-<span style="text-align: right;">— Rabindranath Tagore</span>
+<span class="caption">— Rabindranath Tagore</span>
 
 She sits in a small coffee shop in the Latin Quarter, gazing out the window, lost in thought, watching the wind sweep up the leaves on the sidewalk. Autumn is here.
 
