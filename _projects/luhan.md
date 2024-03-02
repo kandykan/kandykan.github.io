@@ -26,7 +26,7 @@ Right now, I'm only really acting as myself, so I don't have strong feelings, bu
 I am willing to empty myself and let another kind of life fill in.
 
 **ELLE:**
-Seeing that you have a very simple black hairstyle right now, is this some kind signal that you’re going *au naturel*?
+Seeing that you have a very simple black hairstyle right now, is this some kind signal that you’re going _au naturel_?
 
 **Luhan:**
 From my debut till now, the thing I haven't actually tried is this simple style.
