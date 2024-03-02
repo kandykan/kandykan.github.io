@@ -89,8 +89,7 @@ Alas! Jennie! I’m coming. I’m coming to you. Then Jennie throws herself at m
 ## autumn love
 
 > This life is the crossing of a sea, where we meet in the same narrow ship. In death we reach the shore and go to our different worlds.
-
-<span class="caption">— Rabindranath Tagore</span>
+<div class="caption">— Rabindranath Tagore</div>
 
 She sits in a small coffee shop in the Latin Quarter, gazing out the window, lost in thought, watching the wind sweep up the leaves on the sidewalk. Autumn is here.
 
