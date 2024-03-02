@@ -1,24 +1,24 @@
-"Mortensen":
+"mortensen":
   - firstname: ["David", "David R.", "D."]
     url: https://www.cs.cmu.edu/~dmortens/
 
-"Park":
+"park":
   - firstname: ["Hyunji Hayley", "H."]
     url: https://hayleypark.github.io
 
-"Haley":
+"haley":
   - firstname: ["Coleman", "C."]
     url: https://colemanhaley.com
 
-"Steimel":
+"steimel":
   - firstname: ["Kenneth", "K."]
     url: https://ksteimel.duckdns.org
 
-"Liu": 
+"liu": 
   - firstname: ["Han", "H."]
     url: https://hanliuai.github.io
 
-"Schwartz":
+"schwartz":
   - firstname: ["Lane", "L."]
     url: https://dowobeha.github.io/about/
 
