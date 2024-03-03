@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 1
 
-bibliography: 2018-12-22-distill.bib
+bibliography: name.bib
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
