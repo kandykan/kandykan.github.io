@@ -22,46 +22,10 @@
   - firstname: ["Lane", "L."]
     url: https://dowobeha.github.io/about/
 
-"Tyers":
-  - firstname: ["Francis M.", "Francis"]
-    url: http://xixona.dlsi.ua.es/~fran/
+"cui":
+  - firstname: ["Chenxuan", "C."]
+    url:
 
-"Levin":
-  - firstname: ["Lori S.", "Lori", "Lorraine"]
-    url: http://www.cs.cmu.edu/~lsl/
-
-"Kirov":
-  - firstname: ["Christo", "C."]
-    url: https://ckirov.github.io
-
-"Littell": 
-  - firstname: ["Patrick", "P."]
-    url: http://littell.nfshost.com
-
-"Lo":
-  - firstname: ["Chi-kiu", "C. K."]
-    url: http://chikiu-jackie-lo.org/home/
-
-"Prud'hommeaux":
-  - firstname: ["Emily", "E."]
-    url: http://cs.bc.edu/~prudhome/
-
-"Micher":
-  - firstname: ["Jeffrey", "Jeffrey C."]
-    url: http://www.cs.cmu.edu/~jmicher/
-
-"Strunk":
-  - firstname: ["Lonny Alaskuk", "Lonny"]
-    url: https://www.yugtun.com
-
-"Muis": 
-  - firstname: ["Aldrian Obaja", "Aldrian"]
-    url: https://hanliuai.github.io
-
-"Otani":
-  - firstname: ["Naoki", "N."]
-    url: http://naoki.ninja
-
-"Zhang":
-  - firstname: ["Zhisong", "Z."]
-    url: https://zzsfornlp.github.io
+"zhang":
+  - firstname: ["Xinyu", "X."]
+    url:
