@@ -13,13 +13,18 @@ bibliography: name.bib
 _styles: >
   .caption {
     font-size: 0.875rem;
-    margin-top: 0.75rem;
     margin-bottom: 1.5rem;
     text-align: right;
   }
+  ruby {
+    margin: initial 0.5em;
+  }
+  rt {
+    font-size: smaller;
+  }
 ---
 
-My family name is <ruby style="padding: initial 0.5em;"><span lang="zh">張</span> <rt>**Zhang**</rt></ruby>. It means something like 'bowyer' or 'archer'. The pronunciation that I prefer in English is <span style="font-weight: normal;">[dʒɑŋ]</span>: 
+My family name is <ruby><span lang="zh">張</span> <rt>**Zhang**</rt></ruby>. It means something like 'bowyer' or 'archer'. The pronunciation that I prefer in English is <span style="font-weight: normal;">[dʒɑŋ]</span>: 
 
 - <span style="font-weight: normal;">[dʒ]</span> as in _**J**ohn_, 
 - <span style="font-weight: normal;">[ɑ]</span> as in _c**a**r_, and 
@@ -27,7 +32,7 @@ My family name is <ruby style="padding: initial 0.5em;"><span lang="zh">張</spa
 
 My legal given name is **Katherine**. Most people should use this name to refer to me.
 
-My Chinese given name is <ruby style="padding: initial 0.5em;"><span lang="zh">采真</span> <rt>**Caizhen**</rt></ruby>. It comes from the following passage in the writings of [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/).
+My Chinese given name is <ruby><span lang="zh">采真</span> <rt>**Caizhen**</rt></ruby>. It comes from the following passage in the writings of [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/).
 
 > <span lang="zh" style="font-style: normal; text-emphasis-position: under;">古之至人，假道於仁，託宿於義，以遊逍遙之虛，食於苟簡之田，立於不貸之圃。逍遙，无為也；苟簡，易養也；不貸，无出也。古者謂是<span style="text-emphasis: circle;">采真</span>之遊。</span>
 
