@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: she/her · linguist · translator
+subtitle: localizer · translator · linguist
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a linguist and a translator. I translate from Mandarin Chinese (and sometimes French) into English. My areas of specialty in translation include video game localization and literature.
+I am a translator and a linguist. I translate from Mandarin Chinese (and sometimes French) into English. My areas of specialty in translation include video game localization and literature.
 
 I have also done computational linguistic research at CMU's [Language Technologies Institute](https://www.lti.cs.cmu.edu/), the machine translation start-up [Unbabel](https://unbabel.com), and [ÉTS Montréal](https://www.etsmtl.ca).
 

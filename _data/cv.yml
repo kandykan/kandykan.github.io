@@ -8,30 +8,10 @@
     - name: Country
       value: United States
 
-- title: Education
-  type: time_table
-  contents:
-    - title: M.A., Global Communication & Applied Translation
-      institution: Carnegie Mellon University
-      year: 2021
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: B.A., Linguistics, with University Honors
-      institution: Carnegie Mellon University
-      year: 2019
-      description:
-        - <b>Thesis:</b> <i>A Cross-Linguistic Comparison of the L2 Acquisition of VOT Contrasts</i>
-        - <b>Additional Major:</b> Chinese Studies
-
 - title: Experience
   type: time_table
   contents:
-    - title: Localization Specialist
+    - title: Localizer
       institution: miHoYo
       year: 2024–now
       description:
@@ -43,8 +23,8 @@
         #     - Best Game, Google Play’s Best of 2023
         #     - iPhone Game of the Year, 2023 App Store Awards
 
-    - title: Freelance Linguist & Translator
-      # institution: Institute for Advanced Study, Princeton University
+    - title: Linguist & Translator
+      institution: Freelance
       year: 2021–2024
       description:
         - Researched medical terminology, including drug names, and transcribed pronunciation of terms in X-SAMPA phonetic alphabet.
@@ -77,6 +57,26 @@
       description:
         - Developed language technologies (e.g., predictive keyboard app, machine translation) for Inuit–Yupik languages.
         - Published a paper on the relationship between neural language modeling difficulty and language typology.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.A., Global Communication & Applied Translation
+      institution: Carnegie Mellon University
+      year: 2021
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: B.A., Linguistics, with University Honors
+      institution: Carnegie Mellon University
+      year: 2019
+      description:
+        - <b>Thesis:</b> <i>A Cross-Linguistic Comparison of the L2 Acquisition of VOT Contrasts</i>
+        - <b>Additional Major:</b> Chinese Studies
 
 # - title: Open Source Projects
 #   type: time_table
