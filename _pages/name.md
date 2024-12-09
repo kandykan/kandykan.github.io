@@ -1,8 +1,8 @@
 ---
 layout: distill
 permalink: /name/
-title: my name
-description:
+title: name
+description: notes on my name
 nav: true
 nav_order: 1
 

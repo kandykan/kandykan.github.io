@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: 
+title: folio
+permalink: /folio/
+description: school projects
 nav: true
 nav_order: 2
 display_categories: [translation, linguistics]

@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: 
+permalink: /biblio/
+title: biblio
+description: publications
 nav: true
 nav_order: 3
 ---
